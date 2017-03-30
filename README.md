@@ -1,7 +1,7 @@
 # travis_qmake_gcc_cpp14_bpp
 
-Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)|[![Codecov logo](Codecov.png)](https://www.codecov.io)
----|---|---
+Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+---|---
 master|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_bpp.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_bpp)
 develop|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_bpp.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_bpp)
 
