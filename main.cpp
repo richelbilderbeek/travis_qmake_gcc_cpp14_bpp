@@ -3,7 +3,7 @@
 #include <Bpp/Seq/Alphabet.all>
 #include <Bpp/Seq/Sequence.h>
 
-bpp::BasicSequence get_sequence() noexcept
+auto get_sequence() noexcept
 {
   return bpp::BasicSequence(
     "test",
